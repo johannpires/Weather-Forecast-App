@@ -6,7 +6,7 @@ This is a Weather Forecast iOS app fully developed in Swift using UIKit framewor
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
 
-<img src="/Screenshots/Screenshot1.png" width="260">
+<img src="/Screenshots/Screenshot1.png" width="1000">
 
 ## Tecnologies
 * Swift
