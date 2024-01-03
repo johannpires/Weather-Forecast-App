@@ -1,7 +1,7 @@
 # Weather Forecast App
 
 ## Overview
-This is a Weather Forecast iOS app fully developed in Swift using UIKit framework and integrated with Open Weather API.
+This is a Weather Forecast iOS app fully developed in Swift using UIKit framework programmatically and integrated with Open Weather API.
 
 ## Purpose
 This app is designed to offer users a straightforward and intuitive way to access weather forecasts. Built on the robust UIKit framework, the app delivers a smooth user experience while leveraging the OpenWeather API to fetch real-time weather data.
